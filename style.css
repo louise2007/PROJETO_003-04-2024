@@ -1,0 +1,18 @@
+body {
+    background-color: #b66b9d; /* Cor de fundo da página */
+    font-family: 'Arial', sans-serif; /* Fonte padrão */
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    text-shadow: 2px 2px 4px #0f0303; /* Sombra no texto */
+}
+
+p {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 20px;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px #bbb; /* Sombra no texto */
+}
